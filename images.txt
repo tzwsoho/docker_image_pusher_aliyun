@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #xuxueli/xxl-job-admin:2.4.1
 #robotjerry/xxl-job-executor
-ghcr.io/gchq/cyberchef:latest
+#ghcr.io/gchq/cyberchef:latest
+bestwu/thunderspeed
