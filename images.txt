@@ -8,6 +8,7 @@
 #robotjerry/xxl-job-executor
 #ghcr.io/gchq/cyberchef:latest
 #bestwu/thunderspeed
+x11docker/xserver
 #x11docker/deepin
 #x11docker/xfce
-x11docker/fvwm
+#x11docker/fvwm
