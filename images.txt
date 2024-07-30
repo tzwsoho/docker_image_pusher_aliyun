@@ -9,3 +9,4 @@
 #ghcr.io/gchq/cyberchef:latest
 #bestwu/thunderspeed
 x11docker/deepin
+x11docker/xfce
