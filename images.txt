@@ -35,4 +35,5 @@
 #x11docker/kaptain
 #x11docker/lumina
 
-mcr.microsoft.com/dotnet/sdk
+#mcr.microsoft.com/dotnet/sdk
+mcr.microsoft.com/windows/nanoserver:ltsc2022
