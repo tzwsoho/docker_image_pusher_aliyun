@@ -36,4 +36,4 @@
 #x11docker/lumina
 
 #mcr.microsoft.com/dotnet/sdk
-mcr.microsoft.com/windows/nanoserver:ltsc2022
+mcr.microsoft.com/windows/nanoserver:20H2
