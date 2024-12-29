@@ -36,4 +36,6 @@
 #x11docker/lumina
 
 #mcr.microsoft.com/dotnet/sdk
-mcr.microsoft.com/windows/nanoserver:20H2-amd64
+#mcr.microsoft.com/windows/nanoserver:20H2-amd64
+
+--platform=linux/arm64 docker.io/library/python:3.6.6-slim
